@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "89a35822-7f63-11dd-aace-ddc5e87cd236++505",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "89a35822-7f63-11dd-aace-ddc5e87cd236++505" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "89a35822-7f63-11dd-aace-ddc5e87cd236++505" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A41F16DC-5D01-4B22-AE59-39AEA943524A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "89a35822-7f63-11dd-aace-ddc5e87cd236++505" : "sc\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SerialConnect",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Framework\/SerialConnect\/SerialConnect.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/david.haselberger@serialconnect.googlecode.com\/svn",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "89a35822-7f63-11dd-aace-ddc5e87cd236++505"
+    }
+  ]
+}

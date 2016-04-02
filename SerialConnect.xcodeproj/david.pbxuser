@@ -1,0 +1,225 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeTarget = 8DC2EF4F0486A6940098B216 /* SerialConnect */;
+		addToTargets = (
+			8DC2EF4F0486A6940098B216 /* SerialConnect */,
+		);
+		codeSenseManager = 631F9BD30E772A0800F54F47 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					834,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					794,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 242828488;
+			PBXWorkspaceStateSaveDate = 242828488;
+		};
+		perUserProjectItems = {
+			631F9BF80E772B3D00F54F47 /* PBXTextBookmark */ = 631F9BF80E772B3D00F54F47 /* PBXTextBookmark */;
+			631F9BF90E772B3D00F54F47 /* PBXTextBookmark */ = 631F9BF90E772B3D00F54F47 /* PBXTextBookmark */;
+			631F9BFD0E772B3D00F54F47 /* PlistBookmark */ = 631F9BFD0E772B3D00F54F47 /* PlistBookmark */;
+			631F9D210E7841FE00F54F47 /* PlistBookmark */ = 631F9D210E7841FE00F54F47 /* PlistBookmark */;
+			631F9E550E79438F00F54F47 /* PBXTextBookmark */ = 631F9E550E79438F00F54F47 /* PBXTextBookmark */;
+			631F9E580E79438F00F54F47 /* PBXTextBookmark */ = 631F9E580E79438F00F54F47 /* PBXTextBookmark */;
+			631F9E6E0E79452900F54F47 /* PBXTextBookmark */ = 631F9E6E0E79452900F54F47 /* PBXTextBookmark */;
+			631F9E6F0E79452900F54F47 /* PBXTextBookmark */ = 631F9E6F0E79452900F54F47 /* PBXTextBookmark */;
+			631F9E700E79452900F54F47 /* PBXTextBookmark */ = 631F9E700E79452900F54F47 /* PBXTextBookmark */;
+			631F9E710E79452900F54F47 /* PBXTextBookmark */ = 631F9E710E79452900F54F47 /* PBXTextBookmark */;
+			631F9E720E79452900F54F47 /* PBXTextBookmark */ = 631F9E720E79452900F54F47 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 631F9BD20E772A0800F54F47 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	631F9BD20E772A0800F54F47 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	631F9BD30E772A0800F54F47 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	631F9BE40E772A2F00F54F47 /* SerialConnect.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 658}}";
+			sepNavSelRange = "{41, 0}";
+			sepNavVisRange = "{0, 1239}";
+			sepNavWindowFrame = "{{38, 18}, {1135, 734}}";
+		};
+	};
+	631F9BE50E772A2F00F54F47 /* SerialConnect.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 2884}}";
+			sepNavSelRange = "{1342, 0}";
+			sepNavVisRange = "{0, 1275}";
+		};
+	};
+	631F9BF80E772B3D00F54F47 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 631F9BE50E772A2F00F54F47 /* SerialConnect.m */;
+		name = "SerialConnect.m: 6";
+		rLen = 0;
+		rLoc = 41;
+		rType = 0;
+		vrLen = 218;
+		vrLoc = 0;
+	};
+	631F9BF90E772B3D00F54F47 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 631F9BE40E772A2F00F54F47 /* SerialConnect.h */;
+		name = "SerialConnect.h: 14";
+		rLen = 0;
+		rLoc = 1232;
+		rType = 0;
+		vrLen = 227;
+		vrLoc = 0;
+	};
+	631F9BFD0E772B3D00F54F47 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8DC2EF5A0486A6940098B216 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = /Users/david/Desktop/SerialConnect/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	631F9D210E7841FE00F54F47 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8DC2EF5A0486A6940098B216 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = /Users/david/Desktop/SerialConnect/Framework/SerialConnect/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	631F9DDB0E7920A500F54F47 /* gpl.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 9506}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1634}";
+		};
+	};
+	631F9E550E79438F00F54F47 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 631F9DDB0E7920A500F54F47 /* gpl.txt */;
+		name = "gpl.txt: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1634;
+		vrLoc = 0;
+	};
+	631F9E580E79438F00F54F47 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 631F9DDB0E7920A500F54F47 /* gpl.txt */;
+		name = "gpl.txt: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1634;
+		vrLoc = 0;
+	};
+	631F9E6E0E79452900F54F47 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 631F9BE40E772A2F00F54F47 /* SerialConnect.h */;
+		name = "SerialConnect.h: 4";
+		rLen = 0;
+		rLoc = 41;
+		rType = 0;
+		vrLen = 1239;
+		vrLoc = 0;
+	};
+	631F9E6F0E79452900F54F47 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 631F9BE50E772A2F00F54F47 /* SerialConnect.m */;
+		name = "SerialConnect.m: 200";
+		rLen = 0;
+		rLoc = 4991;
+		rType = 0;
+		vrLen = 912;
+		vrLoc = 3060;
+	};
+	631F9E700E79452900F54F47 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 631F9BE50E772A2F00F54F47 /* SerialConnect.m */;
+		name = "SerialConnect.m: 200";
+		rLen = 0;
+		rLoc = 4991;
+		rType = 0;
+		vrLen = 912;
+		vrLoc = 3060;
+	};
+	631F9E710E79452900F54F47 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 631F9BE40E772A2F00F54F47 /* SerialConnect.h */;
+		name = "SerialConnect.h: 4";
+		rLen = 0;
+		rLoc = 41;
+		rType = 0;
+		vrLen = 1239;
+		vrLoc = 0;
+	};
+	631F9E720E79452900F54F47 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 631F9BE50E772A2F00F54F47 /* SerialConnect.m */;
+		name = "SerialConnect.m: 49";
+		rLen = 0;
+		rLoc = 1342;
+		rType = 0;
+		vrLen = 1275;
+		vrLoc = 0;
+	};
+	8DC2EF4F0486A6940098B216 /* SerialConnect */ = {
+		activeExec = 0;
+	};
+}
